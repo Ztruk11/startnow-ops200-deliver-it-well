@@ -2,7 +2,7 @@ deployment:
   prod:
     branch: master
     heroku:
-      appname: https://rocky-earth-48817.herokuapp.com/
+      appname: rocky-earth-48817
 machine:
   node:
     version: 8.1.4
